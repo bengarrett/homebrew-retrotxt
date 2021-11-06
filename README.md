@@ -7,7 +7,7 @@
 
 ```sh
 # install
-brew install bengarrett/homebrew-retrotxt/retrotxt
+brew install bengarrett/retrotxt/retrotxt
 
 # uninstall
 brew uninstall retrotxt
