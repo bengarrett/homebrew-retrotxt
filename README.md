@@ -13,5 +13,5 @@ brew install bengarrett/retrotxt/retrotxt
 brew uninstall retrotxt
 
 # remove the repo (tap)
-brew untap bengarrett/homebrew-retrotxt
+brew untap bengarrett/retrotxt
 ```
